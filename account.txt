@@ -1,5 +1,3 @@
-sender1:masuk123
-sender2:masuk123
-sender3:masuk123
-jac01:masuk123
-jac02:masuk123
+new18:masuk123
+new19:masuk123
+new20:masuk123
